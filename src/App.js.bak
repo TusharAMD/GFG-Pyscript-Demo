@@ -27,10 +27,10 @@ function App() {
       <div className="heading">
         Serverless App
       </div>
+	  
 	  <div className="subheading">
         Linear Regression
       </div>
-	  
 	  
 	  <div className="form">
 	  <input placeholder="Enter new Voltage" /><br/>
